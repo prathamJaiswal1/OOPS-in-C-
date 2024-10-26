@@ -1,2 +1,2 @@
-# OOPs-in-C-
+# OOPs-in-CPP-
 basics concepts of oops
